@@ -17,9 +17,11 @@ This will transpile our code to parseable code for browsers.<br>
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the project in development mode on localhost:3000.<br>
 Webpack will bundle the entire project and cache the bundled files into memory.<br>
 The bundled folder will be hidden at all times, to keep this more 'noob friendly'.<br>
 When the webpack process is stopped, the files will be removed from memory.
+
+This process can be stopped by pressing Ctrl + C
