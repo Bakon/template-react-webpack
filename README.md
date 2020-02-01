@@ -9,7 +9,7 @@ Many boilerplates offer a full developer experience, with lots of magic happenin
 
 [React](https://reactjs.org/)<br>
 [Webpack](https://webpack.js.org/)<br>
-Webpack is used to bundle our project and to setup a local development server.
+Webpack is used to bundle our project and to setup a local development server.<br>
 [Babel](https://babeljs.io/)<br>
 This will transpile our code to parseable code for browsers.<br>
 
@@ -17,9 +17,11 @@ This will transpile our code to parseable code for browsers.<br>
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the project in development mode on localhost:3000.<br>
 Webpack will bundle the entire project and cache the bundled files into memory.<br>
 The bundled folder will be hidden at all times, to keep this more 'noob friendly'.<br>
 When the webpack process is stopped, the files will be removed from memory.
+
+This process can be stopped by pressing Ctrl + C
