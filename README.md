@@ -11,7 +11,7 @@ Many boilerplates offer a full developer experience, with lots of magic happenin
 [Webpack](https://webpack.js.org/)<br>
 Webpack is used to bundle our project and to setup a local development server.<br>
 [Babel](https://babeljs.io/)<br>
-This will transpile our code to parseable code for browsers.<br>
+Babel is used to transpile our code to "browser-readable-code".<br>
 
 ## Available Scripts
 
